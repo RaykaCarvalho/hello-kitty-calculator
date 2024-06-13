@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dddb6e89.css",
+    "main.js": "/static/js/main.952433d8.js",
+    "static/js/453.329a5aa3.chunk.js": "/static/js/453.329a5aa3.chunk.js",
+    "static/media/jpg": "/static/media/611a1fe3b17333cd2b9cfe01d62d2115.539c55d923a8606126f7.jpg",
+    "static/media/hellokitty2.png": "/static/media/hellokitty2.34a7bc00081c7ec16f55.png",
+    "index.html": "/index.html",
+    "main.dddb6e89.css.map": "/static/css/main.dddb6e89.css.map",
+    "main.952433d8.js.map": "/static/js/main.952433d8.js.map",
+    "453.329a5aa3.chunk.js.map": "/static/js/453.329a5aa3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dddb6e89.css",
+    "static/js/main.952433d8.js"
+  ]
+}
