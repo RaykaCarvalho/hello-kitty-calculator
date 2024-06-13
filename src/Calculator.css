@@ -1,0 +1,121 @@
+.calculator {
+    font-family: 'Arial', sans-serif;
+    background-image: url(611a1fe3b17333cd2b9cfe01d62d2115.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    border: 1px solid rgb(255, 7, 243);
+    border-radius: 10px;
+    padding: 25px 25px;
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+  }
+  
+  .display {
+    background-color: rgb(233, 222, 222);
+    border: 1px solid #97146b;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+    text-align: right;
+    font-size: 20px;
+    height: 60px;
+  }
+  
+  .buttons {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+  }
+  
+  button {
+    background-color: #0c0c0c;
+    border: 1px solid #070707;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 18px;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+  }
+  
+  button:hover {
+    background-color: #eb399b;
+  }
+  
+  /* Estilos para o tema Hello Kitty */
+  .calculator h1 {
+    font-size: 24px;
+    color: hsl(0, 0%, 8%); /* Vermelho */
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .calculator .display p {
+    font-size: 20px;
+    color: #000; /* Preto */
+    font-weight: bold;
+    margin: 0;
+    padding-bottom: 10px;
+  }
+  
+  .calculator ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .calculator li {
+    font-size: 16px;
+    color: hsl(337, 81%, 51%); /* Cinza */
+    margin-bottom: 5px;
+  }
+  
+  .calculator button {
+    font-family: 'Arial', sans-serif;
+    font-weight: bold;
+  }
+  
+  .calculator .buttons button {
+    border: 1px solid rgb(218, 28, 192);
+    background-color: #fff;
+  }
+  
+  .calculator .buttons button:hover {
+    background-color: #eb399b
+  }
+  
+
+  .calculator::before {
+    content: '';
+    position: absolute;
+    top: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 100px;
+    height: 5px;
+    background-color: #ffffff; 
+    border-radius: 5px;
+  }
+  
+  
+  .calculator::after {
+    content: '';
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 100px;
+    height: 100px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 50%;
+  }
+
+  img, .logo {
+    width: 100px;
+    height: 100px;
+    margin: auto; 
+    display: block; 
+   
+  
+ }
