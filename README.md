@@ -2,12 +2,15 @@
 
 **💖 Uma calculadora fofa e funcional para seus cálculos! 💖**
 
-Está cansada de calculadoras sem graça? Então prepare-se para se apaixonar pela Calculadora Hello Kitty! 💖 Desenvolvida com React.js, essa calculadora é perfeita para você que ama a Hello Kitty e precisa de uma ajudinha para resolver suas contas.
+Está cansada de calculadoras sem graça? Então prepare-se para se apaixonar pela Calculadora Hello Kitty! 💖 Desenvolvida com **React.js**, essa calculadora é perfeita para você que ama a Hello Kitty e precisa de uma ajudinha para resolver suas contas.
 
 Recursos:
 **Interface charmosa:** Com a Hello Kitty em todos os detalhes, essa calculadora é um mimo para os seus olhos!
+
 **Operações básicas:** Some, subtraia, multiplique e divida com facilidade.
+
 **Histórico de operações:** Nunca mais esqueça seus cálculos!
+
 **Botão "Limpar":** Comece tudo de novo com um clique.
 
 
@@ -16,7 +19,7 @@ Recursos:
 
 **Como usar:**
 Clone o repositório:
-``git clone https://github.com/RaykaCarvalho/hello-kitty-calculator.git``
+```git clone https://github.com/RaykaCarvalho/hello-kitty-calculator.git```
 
 **Use code with caution.**
 
